@@ -11,6 +11,8 @@
 		C10F82302B556E5400A0EA6A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C10F822F2B556E5400A0EA6A /* ContentView.swift */; };
 		C10F82322B556E5600A0EA6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C10F82312B556E5600A0EA6A /* Assets.xcassets */; };
 		C10F82352B556E5600A0EA6A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C10F82342B556E5600A0EA6A /* Preview Assets.xcassets */; };
+		C1E785682B56EC790081D085 /* AddingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1E785672B56EC790081D085 /* AddingView.swift */; };
+		C1E7856A2B56EE1D0081D085 /* BracketView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1E785692B56EE1D0081D085 /* BracketView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		C10F822F2B556E5400A0EA6A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C10F82312B556E5600A0EA6A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C10F82342B556E5600A0EA6A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C1E785672B56EC790081D085 /* AddingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingView.swift; sourceTree = "<group>"; };
+		C1E785692B56EE1D0081D085 /* BracketView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BracketView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				C10F822D2B556E5400A0EA6A /* Stepper_exampleApp.swift */,
 				C10F822F2B556E5400A0EA6A /* ContentView.swift */,
+				C1E785672B56EC790081D085 /* AddingView.swift */,
+				C1E785692B56EE1D0081D085 /* BracketView.swift */,
 				C10F82312B556E5600A0EA6A /* Assets.xcassets */,
 				C10F82332B556E5600A0EA6A /* Preview Content */,
 			);
@@ -138,7 +144,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				C10F82302B556E5400A0EA6A /* ContentView.swift in Sources */,
+				C1E785682B56EC790081D085 /* AddingView.swift in Sources */,
 				C10F822E2B556E5400A0EA6A /* Stepper_exampleApp.swift in Sources */,
+				C1E7856A2B56EE1D0081D085 /* BracketView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
